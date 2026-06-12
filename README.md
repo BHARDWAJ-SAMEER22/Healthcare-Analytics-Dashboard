@@ -166,7 +166,7 @@ Key SQL concepts used:
 ![Executive Overview](Screenshots/Executive_Overview.png)
 
 ## Patient Analytics
-![Patient Analytics](Screenshots/Patient_Analytics.png)
+![Patient Analytics](Screenshots/Patients_Analytics.png)
 
 ## Doctor Performance
 ![Doctor Performance](Screenshots/Doctor_Performance.png)
