@@ -163,19 +163,19 @@ Key SQL concepts used:
 📷 Dashboard Screenshots
 
 ## Executive Overview
-![Executive Overview](Screenshots/Executive_Overview.png)
+![Executive Overview](/Executive_Overview.png)
 
 ## Patient Analytics
-![Patient Analytics](Screenshots/Patients_Analytics.png)
+![Patient Analytics](/Patients_Analytics.png)
 
 ## Doctor Performance
-![Doctor Performance](Screenshots/Doctor_Performance.png)
+![Doctor Performance](/Doctor_Performance.png)
 
 ## Revenue Analytics
-![Revenue Analytics](Screenshots/Revenue_Analytics.png)
+![Revenue Analytics](/Revenue_Analytics.png)
 
 ## Treatment Analytics
-![Treatment Analytics](Screenshots/Treatment_Analytics.png)
+![Treatment Analytics](/Treatment_Analytics.png)
 
 
 📚 Future Enhancements
