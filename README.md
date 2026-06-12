@@ -188,6 +188,6 @@ Key SQL concepts used:
 
 ---
 
-👨‍💻 Author
+👨‍💻 Author:--
 Sameer Bhardwaj
 Data Analytics Enthusiastic | Excel, Google Sheets | SQL | MySQL | Power BI | Data Visualization
